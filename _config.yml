@@ -4,10 +4,9 @@
 baseurl:
 url: https://gezhenyh666.github.io
 date_format: "ordinal"
-title: 码志
-subtitle: "公众号：闷骚的程序员"
-description: "马壮的个人博客，公众号：闷骚的程序员"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang, 闷骚的程序员
+title: 左手乒乓，右手code
+description: "gezhen的个人博客"
+keywords: 乒乓，code
 timezone: Asia/Shanghai
 encoding: "utf-8"
 repository: gezhenyh666/gezhenyh666.github.io
@@ -33,11 +32,6 @@ components:
     # 文章字数统计
     word_count:
         enabled: true
-    # 页面右上角，以及「关于」页面的二维码
-    # 修改图片请替换 assets/images/qrcode.jpg
-    qrcode:
-        enabled: true
-        image_alt: 闷骚的程序员
 # 压缩页面内容
 compress_html:
   clippings: all
@@ -48,12 +42,12 @@ highlight_theme: github
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
+author: ge zhen
 organization: 
 organization_url: 
-github_username: mzlogin
-location: Wuhan, China
-email: chumpma@gmail.com
+github_username: gezhenyh666
+location: Shanghai, China
+email: bestgzyh666@163.com
 
 # ---------------- #
 #    Navigation    #
